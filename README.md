@@ -11,4 +11,6 @@ git commit -m "comentario relacionado al commit", hacer commit de los archivos p
 git log , para ver los commit existentes
 q , se usa para salir del git log
 git show codigoCommit, sirve para ver info de ese commit
+
+Se crea un repositorio en git hub y luego en https voy a "or push an existing.." y sigo los pasos para enlazar y hace push de mi proyecto local al remoto.
 ```
